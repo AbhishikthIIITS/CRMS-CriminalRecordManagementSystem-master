@@ -206,6 +206,7 @@ public class Complaint {
 	         System.out.print(" ");
 	         System.out.print("|");
 	     }
+		
 	     System.out.println("");
 	     System.out.print("|");
 	     for(int i=1;i<=154;i++)
