@@ -1,7 +1,6 @@
 package CriminalClass;
 
 
-
 import java.sql.Connection;
 
 
